@@ -1,0 +1,17 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+.odd .second {
+    font-size: 24px;
+}
+
+.even :first  {
+    font-size: 36px;
+    color: blue;   
+}
+.even .second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
