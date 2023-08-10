@@ -2,15 +2,15 @@
     background-color: lightcoral;
     font-family: Verdana, DejaVu, sans-serif;
 }
-.odd2 {
+.odd.num2 {
     font-size: 24px;
 }
 
-.even1  {
+#even1  {
     font-size: 36px;
     color: blue;   
 }
-.even2 {
+#even2 {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
