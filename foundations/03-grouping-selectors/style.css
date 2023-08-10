@@ -1,0 +1,17 @@
+.adjust-color {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;   
+}
+
+#b1 {
+    color: white;
+    background-color: black;
+    border-color: rgb(41, 38, 38);
+    font-style: bold;
+}
+
+#b2 {
+    background-color: yellow;
+    text-justify: distribute;
+    border-color: rgb(41,38,38);
+}
