@@ -1,16 +1,4 @@
-
-.avatar,
-.proposioned {
-    width: 200px;
-    height: 200px;
-}
-
-.avatar, 
-.distorted {
-    width: 150px;
-    height: 300px;
-}
-
-.original, .proposioned, .distorted {
+.avatar .proposioned {
+    height: auto;
     width: 300px;
 }
