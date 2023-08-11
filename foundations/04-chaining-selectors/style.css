@@ -1,13 +1,14 @@
+
 .avatar,
 .proposioned {
     width: 200px;
 }
 
-.avatar,
-.distorted {
-    height: 400px;
+.avatar, .distorted {
+    width: 150px;
+    height: 300px;
 }
 
-.original {
+.original, .proposioned, .distorted {
     width: 300px;
 }
